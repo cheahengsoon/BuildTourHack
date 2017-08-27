@@ -16,7 +16,7 @@ The source code for our applications is all open source and can be found on [our
 * **User Story** - The shipping department has a fast, responsive, and powerful application for managing day to day duties
 
   * **Deliverable** - Make app more responsive
-    * [1.1.1 \[Required\] - Build a responsive Web App](stories/1/111_BuildWebApp.md)
+    * [1.1.1 \[Required\] - Build a responsive Web App](https://github.com/cheahengsoon/BuildTourHack/blob/master/stories/1/111_BuildWebApp.md)
     * [1.1.2 \[Required\] - Generate Progressive Web App \(d. 1.1.1\)](stories/1/112_GeneratePWA.md)
     * [1.1.3 \[Required\] - Update Web App to PWA \(d. 1.1.1\)](stories/1/113_ConfigureSW.md)
     * [1.1.4 \[Required\] - Test Your App \(d. 1.1.1\)](stories/1/114_Test_App.md)
